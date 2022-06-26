@@ -22,7 +22,7 @@ nav {
    display: flex;
    justify-content: space-between;
    padding: 0 20px;
-   /* background-color: antiquewhite; */
+   background-color: #00000095;
    height: 80px;
    align-items: center;
    color: #fff;
@@ -44,6 +44,7 @@ nav a {
 .logo img {
    width: 40%;
    cursor: pointer;
+   filter: brightness(130%);
 }
 
 ul {
